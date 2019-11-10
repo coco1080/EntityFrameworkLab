@@ -74,3 +74,4 @@ C:\REPO\EntityFrameworkLab\EntityFrameworkLab\obj\Debug\EntityFrameworkLab.dll
 C:\REPO\EntityFrameworkLab\EntityFrameworkLab\obj\Debug\EntityFrameworkLab.pdb
 C:\REPO\EntityFrameworkLab\EntityFrameworkLab\bin\EntityFramework.dll
 C:\REPO\EntityFrameworkLab\EntityFrameworkLab\bin\EntityFramework.xml
+C:\REPO\EntityFrameworkLab\EntityFrameworkLab\obj\Debug\EntityFrameworkLab.csprojAssemblyReference.cache
