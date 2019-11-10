@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramework", "EntityFramework\EntityFramework.csproj", "{A3C3EE69-BB9B-4C89-96FF-6FCED4E9015B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkLab", "EntityFrameworkLab\EntityFrameworkLab.csproj", "{D1898EC9-8194-44D0-A489-113BCBD862BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A3C3EE69-BB9B-4C89-96FF-6FCED4E9015B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A3C3EE69-BB9B-4C89-96FF-6FCED4E9015B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A3C3EE69-BB9B-4C89-96FF-6FCED4E9015B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A3C3EE69-BB9B-4C89-96FF-6FCED4E9015B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1898EC9-8194-44D0-A489-113BCBD862BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1898EC9-8194-44D0-A489-113BCBD862BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1898EC9-8194-44D0-A489-113BCBD862BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1898EC9-8194-44D0-A489-113BCBD862BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
